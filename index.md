@@ -7,7 +7,9 @@ Statistician. Social network scientist.
 
 <div id="webaddress">
   <a href="https://jwgsim.github.io"><i class="fas fa-home"></i> jwgsim.github.io</a> - 
-  <a href="https://github.com/jwgsim"><i class="fab fa-github"></i> jwgsim</a>  
+  <a href="https://github.com/jwgsim"><i class="fab fa-github"></i> jwgsim</a>  -
+  <a href="https://www.linkedin.com/in/jan-willem-simons-1aa2a5175/"><i class="fab fa-linkedin"></i> LinkedIn</a> -
+  <a href="mailto:j.g.simons@uu.nl"><i class="fa fa-envelope"></i> j.g.simons@uu.nl</a> 
 </div>
 
 ## Education
@@ -45,7 +47,7 @@ Basic: French, German.
 
 ## Personal
 
-Birth date: 9 Januari 1994
+Birth date: 19 Januari 1994
 
 Citizenship: Dutch
 
