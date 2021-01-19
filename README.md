@@ -1,3 +1,3 @@
 ## Markdown Curriculum Vitae JWG Simons
 
-My curriculum vitae in Markdown format for hosting purposes on my personal website. 
+My curriculum vitae in Markdown for hosting on my personal website. Layout is based on http://elipapa.github.io/markdown-cv/. 
